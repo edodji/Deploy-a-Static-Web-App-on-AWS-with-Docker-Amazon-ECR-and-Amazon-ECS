@@ -7,11 +7,11 @@
 This project demonstrates how to **containerize an application** using **Docker** and deploy it on **AWS ECS (Elastic Container Service)** with a secure and scalable architecture. The workflow involves setting up a **GitHub repository**, building and pushing a **Docker container** to **Docker Hub** and **Amazon Elastic Container Registry (ECR)**, and configuring an **AWS infrastructure** that includes **VPC, Security Groups, ECS Cluster, Load Balancer, and Route 53**.  
 
 By following this guide, I was be able to:  
-✅ Build and manage **Docker containers**  
-✅ Push and store container images in **Docker Hub** and **AWS ECR**  
-✅ Set up a **secure AWS environment** with **VPC, Security Groups, and Load Balancer**  
-✅ Deploy and scale your application using **AWS ECS Fargate**  
-✅ Secure your domain and web communications using **Route 53** and **AWS Certificate Manager**  
+- Build and manage **Docker containers**  
+- Push and store container images in **Docker Hub** and **AWS ECR**  
+- Set up a **secure AWS environment** with **VPC, Security Groups, and Load Balancer**  
+- Deploy and scale your application using **AWS ECS Fargate**  
+- Secure your domain and web communications using **Route 53** and **AWS Certificate Manager**  
 
 ---
 
