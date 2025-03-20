@@ -1,3 +1,6 @@
+![Alt text](/Static-Web-App-on-AWS-with-Docker-Amazon-ECR.png)
+
+
 #  Deploying a Containerized Application on AWS Using Docker and ECS  
 
 ## Overview  
