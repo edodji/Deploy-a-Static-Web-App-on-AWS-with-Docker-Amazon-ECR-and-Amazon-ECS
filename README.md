@@ -17,7 +17,7 @@ By following this guide, I was be able to:
 ---
 
 ## Prerequisites  
-Before starting, ensure you have the following installed on your computer:  
+Before starting, I ensure to installe on my computer:  
 - **Git** and **Visual Studio Code**  
 - **GitHub account** (Create a Key Pair and add the **Public SSH Key** to GitHub)  
 - **Docker Hub account**  
@@ -29,10 +29,10 @@ Before starting, ensure you have the following installed on your computer:
 ## Steps to Deploy a Containerized Application on AWS  
 
 ### 1. Local Setup  
-1. **Create a GitHub Repository** to store your Dockerfile  
-2. **Clone the GitHub Repository** on your computer  
+1. **Create a GitHub Repository** to store the Dockerfile  
+2. **Clone the GitHub Repository** on my computer  
 3. **Sign up for a Docker Hub account**  
-4. **Download and Install Docker** on your computer  
+4. **Download and Install Docker** on my computer  
 5. **Create a Dockerfile**  
 6. **Build the Container Image**  
 7. **Start the Container**  
@@ -43,7 +43,7 @@ Before starting, ensure you have the following installed on your computer:
 
 ### 2. AWS Setup  
 10. **Install AWS CLI**, create an **IAM User**, and set up a **Named Profile**  
-11. **Create an Amazon ECR Repository** to store your image  
+11. **Create an Amazon ECR Repository** to store the image  
 12. **Push the Image to your ECR repository**  
 
 ---
