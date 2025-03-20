@@ -1,8 +1,4 @@
-# Deploy-a-Static-Web-App-on-AWS-with-Docker-Amazon-EHere is the updated **README** file with an **Overview** section:  
-
----
-
-# README: Deploying a Containerized Application on AWS Using Docker and ECS  
+#  Deploying a Containerized Application on AWS Using Docker and ECS  
 
 ## Overview  
 This project demonstrates how to **containerize an application** using **Docker** and deploy it on **AWS ECS (Elastic Container Service)** with a secure and scalable architecture. The workflow involves setting up a **GitHub repository**, building and pushing a **Docker container** to **Docker Hub** and **Amazon Elastic Container Registry (ECR)**, and configuring an **AWS infrastructure** that includes **VPC, Security Groups, ECS Cluster, Load Balancer, and Route 53**.  
